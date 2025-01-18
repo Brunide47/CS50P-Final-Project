@@ -1,0 +1,10 @@
+"""
+ALL THE LIBRARIES OR MODULES USED IN THE PROJECT:
+
+- requests
+-json
+-pytest
+-random
+-tud_test_base.py by mauricioaniche
+
+"""
